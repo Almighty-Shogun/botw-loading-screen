@@ -1,0 +1,40 @@
+.divine-beasts {
+    opacity: 0;
+    position: absolute;
+    bottom: 0;
+    right: 45px;
+}
+
+.divine-beasts img {
+    vertical-align: bottom;
+    position: relative;
+    height: 55px;
+    width: auto;
+}
+
+.vah-medoh {
+    padding-left: 28px;
+    padding-bottom: 2px;
+    bottom: 5px;
+    animation: vah-medoh 4s infinite;
+    -webkit-animation: vah-medoh 5s infinite;
+}
+
+.vah-naboris {
+    padding-left: 26px;
+    animation: vah-naboris 1.5s infinite;
+    -webkit-animation: vah-naboris 1.5s infinite;
+}
+
+.vah-rudania {
+    padding-left: 28px;
+    padding-bottom: 8px;
+    animation: vah-rudania 5.5s infinite;
+    -webkit-animation: vah-rudania 5.5s infinite;
+}
+
+.vah-ruta {
+    padding-left: 10px;
+    animation: vah-ruta 3.3s infinite;
+    -webkit-animation: vah-ruta 3.3s infinite;
+}

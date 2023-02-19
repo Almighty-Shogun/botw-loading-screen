@@ -1,0 +1,75 @@
+@keyframes vah-naboris {
+    0% {
+        bottom: 0;
+        right: 0;
+    }
+    15% {
+        bottom: 4px;
+        right: 3px;
+    }
+    30% {
+        right: 6px;
+        bottom: 0;
+    }
+    35% {
+        right: 6px;
+        bottom: 2px;
+    }
+    40% {
+        right: 6px;
+        bottom: 0;
+    }
+    43% {
+        right: 6px;
+        bottom: 1px;
+    }
+    46% {
+        right: 6px;
+        bottom: 0;
+    }
+    60% {
+        right: 6px;
+    }
+    100% {
+        bottom: 0;
+        right: 0;
+    }
+}
+
+@-webkit-keyframes vah-naboris {
+    0% {
+        bottom: 0;
+        right: 0;
+    }
+    15% {
+        bottom: 4px;
+        right: 3px;
+    }
+    30% {
+        right: 6px;
+        bottom: 0;
+    }
+    35% {
+        right: 6px;
+        bottom: 2px;
+    }
+    40% {
+        right: 6px;
+        bottom: 0;
+    }
+    43% {
+        right: 6px;
+        bottom: 1px;
+    }
+    46% {
+        right: 6px;
+        bottom: 0;
+    }
+    60% {
+        right: 6px;
+    }
+    100% {
+        bottom: 0;
+        right: 0;
+    }
+}

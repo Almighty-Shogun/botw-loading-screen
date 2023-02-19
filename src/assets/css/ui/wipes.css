@@ -1,0 +1,22 @@
+.wipe {
+    position: absolute;
+    top: 0;
+    height: 38%;
+}
+
+.wipe-top {
+    right: 0;
+    margin-right: -20px;
+    width: 150px;
+    background-image: linear-gradient(to right, #000000, #fff);
+    transform: skewX(7deg);
+}
+
+.wipe-bottom {
+    background: #000000;
+    display: block;
+    z-index: 99;
+    right: -185px;
+    width: 0;
+    transform: skewX(-7deg);
+}

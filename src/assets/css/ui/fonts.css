@@ -1,0 +1,26 @@
+@font-face {
+  font-family: CalamityRegular;
+  src: url("../../fonts/Calamity-Regular.eot");
+  src: url("../../fonts/Calamity-Regular.eot?#iefix") format("embedded-opentype"),
+  url("../../fonts/Calamity-Regular.woff") format("woff"),
+  url("../../fonts/Calamity-Regular.ttf") format("truetype"),
+  url("../../fonts/Calamity-Regular.svg#svgFontName") format("svg");
+}
+
+@font-face {
+  font-family: CalamityBold;
+  src: url("../../fonts/Calamity-Bold.eot");
+  src: url("../../fonts/Calamity-Bold.eot?#iefix") format("embedded-opentype"),
+  url("../../fonts/Calamity-Bold.woff") format("woff"),
+  url("../../fonts/Calamity-Bold.ttf") format("truetype"),
+  url("../../fonts/Calamity-Bold.svg#svgFontName") format("svg");
+}
+
+@font-face {
+  font-family: BotwTitle;
+  src: url("../../fonts/HyliaSerifBeta-Regular.eot");
+  src: url("../../fonts/HyliaSerifBeta-Regular.eot?#iefix") format("embedded-opentype"),
+  url("../../fonts/HyliaSerifBeta-Regular.woff") format("woff"),
+  url("../../fonts/HyliaSerifBeta-Regular.ttf") format("truetype"),
+  url("../../fonts/HyliaSerifBeta-Regular.svg#svgFontName") format("svg");
+}

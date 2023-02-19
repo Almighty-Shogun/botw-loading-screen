@@ -1,0 +1,15 @@
+/* Import animation css. */
+@import "animations/triforce-loader.css";
+@import "animations/vah-medoh.css";
+@import "animations/vah-naboris.css";
+@import "animations/vah-rudania.css";
+@import "animations/vah-ruta.css";
+
+/* Import UI css. */
+@import "ui/divine-beasts.css";
+@import "ui/fonts.css";
+@import "ui/logo.css";
+@import "ui/statistics.css";
+@import "ui/triforce-loader.css";
+@import "ui/wipes.css";
+@import "ui/website.css";

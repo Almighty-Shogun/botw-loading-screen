@@ -1,0 +1,33 @@
+.logo-loading {
+    opacity: 0;
+}
+
+.logo-loading img {
+    border: 1px solid #000000;
+}
+
+.logo-loading img,
+.logo-loading-block {
+    position: absolute;
+    bottom: 34px;
+    right: 48px;
+    height: 173px;
+    width: 221px;
+}
+
+.logo-loading-block {
+    display: block;
+    z-index: 8;
+    background: #20221C;
+}
+
+.logo-split {
+    height: 100%;
+    width: 0;
+    background-color: #fff;
+}
+
+.overlay-loading {
+    display: block;
+    z-index: 9;
+}

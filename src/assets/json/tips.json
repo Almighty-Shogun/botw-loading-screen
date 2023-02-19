@@ -1,0 +1,554 @@
+[
+  {
+    "title": "Scorching Climates",
+    "tip": "In the extreme heat of volcanic regions, wooden bows or shields you have equipped will catch fire. It's better to use metal equipment instead."
+  },
+  {
+    "title": "Scorching Climates",
+    "tip": "The extreme temperatures of volcanic regions will hurt you without the proper precautions. Wear fireproof equipment or down an elixir to stave off the heat."
+  },
+  {
+    "title": "Rumor has it...",
+    "tip": "Forest spirits called Koroks like to hide in unexpected spots. Never pass up an opportunity to investigate things that look out of place!"
+  },
+  {
+    "title": "Rumor has it...",
+    "tip": "Deep in the forest resides a glowing blue spirit in the form of a rabbit. It is said that whoever is skilled enough to hit it with an arrow receives a handsome reward."
+  },
+  {
+    "title": "Smoke Signals",
+    "tip": "A plume of smoke in the distance is a good sign that you might find someone at its origin."
+  },
+  {
+    "title": "Shooting Stars",
+    "tip": "If you should see a star shoot through the night sky, mark the place where it lands—you might find something there."
+  },
+  {
+    "title": "Sand Seals",
+    "tip": "In order to hitch a ride behind a sand seal, you'll first need to equip a shield."
+  },
+  {
+    "title": "Sand Seals",
+    "tip": "Sand seals provide a fast way to travel across sand. When hitching  a ride, be careful not to run into any rocks!"
+  },
+  {
+    "title": "Sand Seals",
+    "tip": "These large beasts native to the Gerudo Desert are much friendlier than they look. They've been domesticated over time for use as a mode of transportation."
+  },
+  {
+    "title": "Tips and Tricks",
+    "tip": "Check this screen for hints that will surely aid you on your journey. The adventurous heart must never stop seeking knowledge!"
+  },
+  {
+    "title": "Ancient Walls",
+    "tip": "Shrine walls are too slick to grab or climb. You must find alternate ways to reach new heights, such as ladders or other creative solutions."
+  },
+  {
+    "title": "Shrine Travel",
+    "tip": "Activating a shrine registers it as a travel point. If you get stumped or run out of supplies, you can leave the shrine and return easily when you feel ready."
+  },
+  {
+    "title": "Replenishing Equipment",
+    "tip": "If you run out of equipment while exploring a Divine Beast, consider making a trip into town. Once you've stocked up, you can travel right back to the Divine Beast."
+  },
+  {
+    "title": "Freezing Climates",
+    "tip": "Wear cold-resistant clothing or eat something that warms your body when adventuring in cold regions. Otherwise, the cold will slowly chip away at your health."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "It's dangerous to approach enemies head-on when you're low on hearts or don't have protective armor equipped. Always be prepared!"
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "Instead of throwing yourself at enemies over and over to no avail, try cooking special dishes and elixirs to give yourself better defense, extra damage, or more hearts."
+  },
+  {
+    "title": "Falling Death",
+    "tip": "Depending on the height, you may take damage, or even die, when you fall. So be cautious out there walking near cliff edges!"
+  },
+  {
+    "title": "Falling Death",
+    "tip": "Depending on the height, you may take damage, or even die, when you fall. Remember to use the paraglider for a safe descent."
+  },
+  {
+    "title": "Guardians",
+    "tip": "Their entire bodies are covered in armor, so low-powered weapons won't do any damage. It's best to avoid these foes until you have the right tools for the job!"
+  },
+  {
+    "title": "Lightning Strikes",
+    "tip": "It may sound like a superstition, but lightning seems to strike metal objects frequently. If you hear thunder, unequip anything metallic."
+  },
+  {
+    "title": "Armor Sets",
+    "tip": "Wearing the top, bottom, and headwear from the same set can earn you some bonus effects."
+  },
+  {
+    "title": "Collecting Ingredients",
+    "tip": "There are many more ingredients than those used for cooking food. Collect and experiment with different ingredients to make all sorts of things!"
+  },
+  {
+    "title": "Cooking Secrets",
+    "tip": "Using more of an effect-imparting ingredient when cooking will increase that effect in the resulting dish."
+  },
+  {
+    "title": "Monster Ingredients",
+    "tip": "If you combine monster parts dropped by fallen foes in a cooking pot with things like lizards and butterflies, you can create elixirs with special effects."
+  },
+  {
+    "title": "Roasting Ingredients",
+    "tip": "Throw ingredients like mushrooms or fish directly into a fire to roast  them and up their health benefits. Keep in mind that roasting an ingredient won't activate its potential special effect."
+  },
+  {
+    "title": "Fairy Effects",
+    "tip": "If you keep a fairy in your pouch, it will automatically restore some hearts when you fall in battle."
+  },
+  {
+    "title": "Gems",
+    "tip": "The gems that sometimes drop when you break ore deposits fetch a high price when sold."
+  },
+  {
+    "title": "Cooking Pots",
+    "tip": "Cook up some wild cuisine by throwing together some ingredients and seeing what happens. You can't cook with an unlit pot."
+  },
+  {
+    "title": "Cutting Grass",
+    "tip": "Wildlife taking shelter in the grass will sometimes jump out when you cut down their hiding place."
+  },
+  {
+    "title": "No Stone Unturned",
+    "tip": "Wildlife taking shelter under a rock will sometimes jump out when you lift up their hiding place."
+  },
+  {
+    "title": "Octo Balloon",
+    "tip": "When inflated, this sac obtained from defeating Octoroks is extremely buoyant. Place one near something you want to lift to make it float into the air."
+  },
+  {
+    "title": "Fairy Effects",
+    "tip": "If you have a fairy help you cook, the tonic you produce together restores a great deal of hearts."
+  },
+  {
+    "title": "Scorching Climates",
+    "tip": "In the extreme heat of volcanic regions, ingredients will cook simply by placing them on the ground. Use this to your advantage to prepare meals on the go."
+  },
+  {
+    "title": "Freezing Climates",
+    "tip": "Some ingredients will freeze if submerged in ice-cold water or when left out in frigid regions. There are a few ingredients that taste even better frozen."
+  },
+  {
+    "title": "Luring Fish",
+    "tip": "Tossing ingredients that serve as bait near fish in the water will attract them. Different bait works on different kinds of fish."
+  },
+  {
+    "title": "What's That, Pooch?",
+    "tip": "If you befriend a dog, it may lead you to something interesting."
+  },
+  {
+    "title": "Ingredient Effects",
+    "tip": "Certain ingredients give elixirs or dishes special properties. But don't get greedy: ingredients with different effects will cancel each other out."
+  },
+  {
+    "title": "Ingredient Effects",
+    "tip": "You can only enjoy one effect from a dish or elixir at any given time. If you're relying on an active effect, be careful not to cancel it by eating something with a new effect."
+  },
+  {
+    "title": "Where's the Fire?",
+    "tip": "When a wooden weapon or shield catches fire, you can extinguish it by unequipping the burning item."
+  },
+  {
+    "title": "Weapon Durability",
+    "tip": "Durability varies with every weapon. Always be aware of the condition of your equipment. A weapon breaking at the wrong time is never a good thing."
+  },
+  {
+    "title": "Special Bows",
+    "tip": "A few bows fire multiple arrows at once. They offer several times the power of normal bows, while strangely only consuming one arrow at a time."
+  },
+  {
+    "title": "More Than a Weapon",
+    "tip": "Metal weapons create sparks that can be used to light a fire. Furthermore, if you set a wooden weapon on fire, it can be used as a torch."
+  },
+  {
+    "title": "Weapon Bonuses",
+    "tip": "Some weapons you'll come across have special properties that set them apart from others of their class, such as superior durability or above-average attack power."
+  },
+  {
+    "title": "Critical Hit",
+    "tip": "When using a weapon with this bonus, the last hit in a series of attacks will deal double the damage."
+  },
+  {
+    "title": "Hyrule Compendium",
+    "tip": "Images captured with your Camera are logged in your Hyrule Compendium. Things that can be logged include wildlife, monsters, ingredients, and weapons."
+  },
+  {
+    "title": "Registering Horses",
+    "tip": "Once you've tamed a wild horse, you can register it by taking it to a stable. Do this, and you'll be able to call your beloved steed to your side whenever you please."
+  },
+  {
+    "title": "Wild Horses",
+    "tip": "If you see a wild horse you'd like to ride, crouch down so you can approach it quietly from behind. Take heed, though—if the horse notices you while you're directly behind it, it will kick you!"
+  },
+  {
+    "title": "Training Your Horse",
+    "tip": "Horses that you have just caught won't listen to much of what you tell them to do. The more time you spend adventuring with your steed, the better behaved it will become."
+  },
+  {
+    "title": "Horse Temperaments",
+    "tip": "Just as some horses have a naturally wild temperament, some horses are inherently shy. If you try to approach monsters atop a shy steed, it will become frightened and try to turn away."
+  },
+  {
+    "title": "The Steed Takes the Lead",
+    "tip": "Obedient horses will follow pathways without being told to. Leave the running up to your loyal steed every once in a while so you can enjoy the scenery!"
+  },
+  {
+    "title": "Galloping",
+    "tip": "The number of times you can increase your speed depends on each horse. If you find a horse with a high number of spurs, consider keeping it as your companion."
+  },
+  {
+    "title": "Horse Temperaments",
+    "tip": "Trying to force a rowdy and untamed horse to speed up will likely result in you being tossed to the ground."
+  },
+  {
+    "title": "Galloping",
+    "tip": "You can run down smaller monsters atop your galloping steed, but don't forget that you cannot make quick turns when traveling this way."
+  },
+  {
+    "title": "Cryonis",
+    "tip": "Use this power to create a pillar of ice on the water's surface. Such pillars can be used for lifting objects or climbing."
+  },
+  {
+    "title": "Magnesis",
+    "tip": "When you find a metallic object, you can use this power to lift it up and move it around freely, regardless of how heavy it is."
+  },
+  {
+    "title": "Magnesis",
+    "tip": "Use this power to lift up metallic objects hidden in water."
+  },
+  {
+    "title": "Magnesis",
+    "tip": "To save wear and tear on your weapons, try swinging heavy metallic objects around or dropping them on foes' heads."
+  },
+  {
+    "title": "Map Pins",
+    "tip": "Not only can you drop pins while looking through the scope, but you can also add or delete pins from the map on your Sheikah Slate."
+  },
+  {
+    "title": "Map Stamps",
+    "tip": "You can stamp the map on your Sheikah Slate with reminders of important discoveries, like the location of a cooking pot or something unusual you want to investigate later."
+  },
+  {
+    "title": "Climbing Tip",
+    "tip": "The stamina required for climbing increases with the steepness of the cliff. To climb higher while using less stamina, it's important to find walls that have a gentler slope."
+  },
+  {
+    "title": "Climbing Tip",
+    "tip": "In rainy weather, cliffs become slippery and may not be possible to scale. Wait for clear weather before attempting to climb a steep cliff whenever possible."
+  },
+  {
+    "title": "Restoring Hearts",
+    "tip": "You can replenish your health by consuming fruits and veggies you've collected, as well as meat you've acquired through hunting. Eat ingredients raw, or cook them to increase their healing properties."
+  },
+  {
+    "title": "Stamina Wheel",
+    "tip": "If your stamina runs out while climbing, you will lose your grip and fall."
+  },
+  {
+    "title": "Stamina Wheel",
+    "tip": "Swimming depletes your stamina. If this runs out while you're swimming, you will sink below the water and, unless you've run out of hearts, be returned to dry land."
+  },
+  {
+    "title": "Pushing Objects",
+    "tip": "Barrels and boxes can be pushed around. Use this to your advantage!"
+  },
+  {
+    "title": "Bedtime",
+    "tip": "Sleeping in a bed allows you to sleep until morning, noon, or night. It also replenishes your hearts."
+  },
+  {
+    "title": "Archery Tip",
+    "tip": "Draw your bowstring while jumping from a high place to briefly slow down time so that you can aim with greater accuracy."
+  },
+  {
+    "title": "Treetops",
+    "tip": "The things you can do atop small trees are limited, but they have their uses. Use them to scout an area with your scope. It's a handy way to decide your next destination!"
+  },
+  {
+    "title": "Resting at an Inn",
+    "tip": "Sleeping overnight in a bed can do more than just fully replenish your hearts. If you spend more for a comfier bed, you can temporarily increase your hearts!"
+  },
+  {
+    "title": "Paraglider",
+    "tip": "Soaring with the paraglider depletes your Stamina Wheel. Be careful to monitor your stamina so you don't run out midflight."
+  },
+  {
+    "title": "Climbing Tip",
+    "tip": "Overhangs that curve outward and the underside of ceilings are too difficult to hang on to. If you try to climb these surfaces anyway, you will fall."
+  },
+  {
+    "title": "Remote Bombs",
+    "tip": "The spherical bombs will roll downhill, whereas the cube-shaped bombs will not. Make sure to use the right bomb for the landscape!"
+  },
+  {
+    "title": "Remote Bombs",
+    "tip": "These bombs are useful not only for dealing damage to monsters. They can also be used to break rocks and weak walls."
+  },
+  {
+    "title": "Remote Bombs and Wind",
+    "tip": "Remote Bombs are lighter than they appear. Use the wind to your advantage to roll them in a certain direction or to blow them farther than you could throw them on your own."
+  },
+  {
+    "title": "Sheikah Sensor",
+    "tip": "Use this power to detect the location of shrines. Simply head in the direction where the reading is strongest."
+  },
+  {
+    "title": "Sheikah Sensor +",
+    "tip": "The Sheikah Sensor + can detect objects that are logged in your Hyrule Compendium."
+  },
+  {
+    "title": "Stasis",
+    "tip": "This power allows you to halt time for certain objects, completely stopping them in place."
+  },
+  {
+    "title": "Stasis",
+    "tip": "Attacking objects stopped by Stasis will make them build up energy. This energy will then be released once the time-halting effect ends."
+  },
+  {
+    "title": "Stasis",
+    "tip": "Freezing a Bomb Barrel using Stasis and then attacking it will cause it to fly off and explode at its point of impact."
+  },
+  {
+    "title": "Wolf Link",
+    "tip": "If your Sheikah Sensor picks up a signal, Wolf Link will lead you to its source."
+  },
+  {
+    "title": "Wolf Link",
+    "tip": "Wolf Link will remain still if you select Stay while locked on to him. Select Come while he's waiting to make him follow you again."
+  },
+  {
+    "title": "Wolf Link",
+    "tip": "Whistle to call Wolf Link to your location. If you tap the amiibo a second time, you can recall him close to you."
+  },
+  {
+    "title": "Wolf Link",
+    "tip": "Wolf Link is summoned from another plane of existence and can't be seen by other people in this world."
+  },
+  {
+    "title": "Wolf Link",
+    "tip": "Wolf Link will eat whatever food is in front of him to regain his hearts. If you don't want him to eat rare ingredients, use the Stay command to have him stay in place while you collect them."
+  },
+  {
+    "title": "Wolf Link",
+    "tip": "As long as Wolf Link doesn't run out of hearts, you can summon him  as many times as you want in a single day."
+  },
+  {
+    "title": "amiibo Rune",
+    "tip": "Some amiibo may only be used once per day."
+  },
+  {
+    "title": "amiibo Rune",
+    "tip": "Use an amiibo to summon forth an item that may be useful to you on your adventure!"
+  },
+  {
+    "title": "Time Flies",
+    "tip": "If you ever want to advance time, seek out a cozy campfire. There, you can pass the time until morning, noon, or night."
+  },
+  {
+    "title": "Making a Campfire",
+    "tip": "To start a campfire, simply set some wood ablaze. You can use a torch or some flint to do just that."
+  },
+  {
+    "title": "Time Flies",
+    "tip": "Monsters thrive at nighttime—as do other things that can make adventuring dangerous. If you're low on hearts at night, find a campfire and lay low until morning."
+  },
+  {
+    "title": "Cold Water",
+    "tip": "Swimming in cold water will lower your body heat and cause you to take damage. Cooked food and special garb won't help you."
+  },
+  {
+    "title": "Hot Springs",
+    "tip": "These lush, thermal baths are found throughout the world. You can relax in them for a while to replenish your hearts."
+  },
+  {
+    "title": "Pools of Malice",
+    "tip": "Poisonous bogs formed by water that was sullied during the Great Calamity. Coming into contact with one will hurt you."
+  },
+  {
+    "title": "Bottomless Bog",
+    "tip": "A quagmire that will draw you in... Sink in too deeply, and you'll be unable to escape."
+  },
+  {
+    "title": "Rafts",
+    "tip": "Rafts with sails can move when pushed by the wind. Or you can get them moving yourself if you have a Korok leaf."
+  },
+  {
+    "title": "Ancient Furnaces",
+    "tip": "These energy furnaces glow with a blue flame. They are said to be creations of the ancient Sheikah race. It may be true, as they've been burning for 10,000 years."
+  },
+  {
+    "title": "Setting Fires",
+    "tip": "Wooden objects and dry grass catch fire easily. Be careful around such things while holding a lit torch."
+  },
+  {
+    "title": "Burning Things",
+    "tip": "Dry grass catches fire especially easily, and that fire spreads quickly."
+  },
+  {
+    "title": "Updrafts",
+    "tip": "When fire spreads, it creates an updraft. You can use the paraglider to catch that updraft and ride it high into the sky."
+  },
+  {
+    "title": "Granters of Boons",
+    "tip": "At the far reaches of the continent, there is a being that trades in Heart Containers and Stamina Vessels."
+  },
+  {
+    "title": "Goddess Statues",
+    "tip": "These ancient monuments depict the Goddess worshipped in Hyrule since time out of mind. You can trade four Spirit Orbs to one for a Stamina Vessel or a Heart Container."
+  },
+  {
+    "title": "Temperature Changes",
+    "tip": "The temperature will change depending on your location and the time of day. It's a good idea to pay close attention to fluctuations in temperature when you're out roaming."
+  },
+  {
+    "title": "Beat the Heat",
+    "tip": "The strong rays of the sun during a desert day will inflict damage if you're unprepared. You'll need to spend time in the shade or water or equip special armor specially made for high temperatures."
+  },
+  {
+    "title": "Surviving the Cold",
+    "tip": "Even in frigid climates, the heat of a campfire can keep you warm. Holding a lit torch is another good way to stave off the cold."
+  },
+  {
+    "title": "The Joys of Night",
+    "tip": "Some animals and insects only come out when it's dark. Keep an eye out for them!"
+  },
+  {
+    "title": "Nighttime Monsters",
+    "tip": "When night falls, skeletal Stal monsters will emerge from the ground. Stay vigilant!"
+  },
+  {
+    "title": "Lightning Strikes",
+    "tip": "Lightning has a tendency to strike anything metallic. Whenever you hear thunder, it's a good idea to remove any metallic equipment before you get fried."
+  },
+  {
+    "title": "The Joys of Rain",
+    "tip": "Some animals love playing in the rain, and there are certain plants that only bloom during rainstorms. Keep an eye out for them!"
+  },
+  {
+    "title": "Bokoblins",
+    "tip": "Without much in the way of clothing to protect them, they tend to run when menaced by bees."
+  },
+  {
+    "title": "Bokoblins",
+    "tip": "These omnivorous monsters enjoy not only meat and fish but also fresh fruit."
+  },
+  {
+    "title": "Chuchus",
+    "tip": "They will explode when attacked. Try throwing something at them from a safe distance."
+  },
+  {
+    "title": "Guardians",
+    "tip": "Guardians are ancient, highly advanced weapons, so items from the current age won't deal much damage. Weapons from their own era like ancient arrows are better suited to combat them."
+  },
+  {
+    "title": "Lizalfos",
+    "tip": "As carnivores, they eat meat, fish, and even insects."
+  },
+  {
+    "title": "Moblins",
+    "tip": "These large carnivores require sizable helpings of meat and fish to sustain their bulky frames."
+  },
+  {
+    "title": "Stealth Tip",
+    "tip": "It's harder to hear footsteps when it's raining...making it the perfect time to sneak up on some monsters!"
+  },
+  {
+    "title": "Stealth Tip",
+    "tip": "Crouching in a grassy field makes it harder for monsters and enemies to detect you. Keep this in mind if you want to ambush enemies or avoid fighting altogether."
+  },
+  {
+    "title": "Critical Hits",
+    "tip": "Hitting a monster or enemy in the head with an arrow deals double the normal amount of damage."
+  },
+  {
+    "title": "Horseback Battles",
+    "tip": "When fighting on horseback, weapons with reach such as spears and big swords have an advantage over short swords and clubs."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "The difference between winning and losing a battle often comes down to strategy. With the right tactics, you may be able to defeat an entire group of enemies at once."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "Monsters sometimes leave their weapons lying around their camp. Sneaking up and stealing these items will make defeating them much easier!"
+  },
+  {
+    "title": "Ice Arrows",
+    "tip": "If you find yourself surrounded by an overwhelming number of enemies, try using ice arrows to freeze them in their tracks."
+  },
+  {
+    "title": "Fire Arrows",
+    "tip": "Use fire arrows to burn dry grass and defeat multiple enemies at the same time."
+  },
+  {
+    "title": "Shock Arrows",
+    "tip": "Shoot shock arrows into water or metallic objects to electrify enemies and monsters."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "Monsters on the lookout in watchtowers will sound the alarm if they spot you. Defeat these foes first before they alert the others."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "If an enemy camp has multiple levels, each packed with monsters, consider using the paraglider to sneak your way to the top."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "Using Magnesis to toss metal objects into a camp full of monsters is a great way to do some damage."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "Monsters need their beauty rest too. If you see a group of monsters sleeping, use that opportunity to sneak-attack them!"
+  },
+  {
+    "title": "Bomb Barrels",
+    "tip": "Shoot a fire arrow into a bomb barrel to make it explode. Tossing a burning weapon at one works too."
+  },
+  {
+    "title": "Electric Chuchus",
+    "tip": "When you attack Electric Chuchus, they explode in a burst of sparks. Use this to your advantage to shock nearby monsters."
+  },
+  {
+    "title": "Fire Chuchus",
+    "tip": "When you attack Fire Chuchus, they explode and start a fire. Use this to your advantage to turn up the heat on nearby monsters."
+  },
+  {
+    "title": "Ice Chuchus",
+    "tip": "When you attack Ice Chuchus, they explode in a burst of frost. Use this to your advantage to put nearby monsters on ice."
+  },
+  {
+    "title": "Critical Hits",
+    "tip": "Weapons that you have no use for are perfect for throwing at monsters. If one hits, it will deal double damage."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "If the foe you're fighting is too powerful, train yourself up! You can start by finding a stronger weapon or collecting Spirit Orbs to get more hearts or increase your Stamina Wheel."
+  },
+  {
+    "title": "Electric Lizalfos",
+    "tip": "If you hit an Electric Lizalfos's horn with an arrow, it will discharge a massive electric shock."
+  },
+  {
+    "title": "Battle Tip",
+    "tip": "If a monster is hiding behind a shield, you can bat the shield away by hitting it with a heavy sword or axe."
+  },
+  {
+    "title": "Elemental Weaknesses",
+    "tip": "If you use a fiery attack against an icy enemy, you may defeat it in one hit."
+  },
+  {
+    "title": "Elemental Weaknesses",
+    "tip": "If you use an icy attack against a fiery enemy, you may defeat it in one hit."
+  },
+  {
+    "title": "Perfect Dodge",
+    "tip": "If you backflip or side hop away from a monster's attack at just the right moment, you will be rewarded with a chance to let loose with a flurry of attacks."
+  }
+]

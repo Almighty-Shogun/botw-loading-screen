@@ -1,0 +1,56 @@
+.triforce-loader {
+    position: absolute;
+    left: 48px;
+    bottom: 56px;
+}
+
+.circle {
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    width: 6px;
+    height: 6px;
+    background-color: #fff;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    position: absolute;
+    animation: triforce-loader 0.75s infinite;
+    -webkit-animation: triforce-loader 0.75s infinite;
+}
+
+.circle.glow {
+    box-shadow: 0 0 20px #fff;
+}
+
+.circle-1,
+.circle-4,
+.circle-5 {
+    animation-delay: 0.375s;
+    -webkit-animation-delay: 0.375s;
+}
+
+.circle-1 {
+    left: 7px;
+}
+
+.circle-2 {
+    top: 5px;
+}
+
+.circle-3 {
+    top: 5px;
+    left: 14px;
+}
+
+.circle-4 {
+    top: 12px;
+}
+
+.circle-5 {
+    top: 12px;
+    left: 14px;
+}
+
+.circle-6 {
+    top: 17px;
+    left: 7px;
+}
